@@ -35,7 +35,7 @@
     "grunt": "~0.4.0rc2"
   },
   "dependencies": {
-    "cross-spawn-async": "^2.2.2",
+    "cross-spawn": "^4.0.0",
     "faucet": "0.0.1",
     "tape": "^4.6.0",
     "through": "~2.3.4"

@@ -10,7 +10,7 @@
 
 var path = require('path'),
     fs = require('fs'),
-    spawn = require('cross-spawn-async').spawn,
+    spawn = require('cross-spawn'),
     faucet = require('faucet'),
     through = require('through');
 
